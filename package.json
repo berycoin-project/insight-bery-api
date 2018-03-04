@@ -1,7 +1,7 @@
 {
   "name": "insight-bery-api",
   "description": "A Berycoin blockchain REST and web socket API service for Berycore Node.",
-  "version": "0.4.4",
+  "version": "5.0.01",
   "repository": "git://github.com/berycoin-project/insight-bery-api.git",
   "contributors": [
     {
@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "berycore-lib": "^0.13.22",
-    "berycore-message": "^1.0.5",
+    "berycore-lib": "^0.15.38",
+    "berycore-message": "^1.1.0",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
